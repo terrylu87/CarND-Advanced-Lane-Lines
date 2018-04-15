@@ -98,6 +98,7 @@ I use the inverse prespective transform to draw the lane on the undistorted imag
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
 Here's a [link to my project video result](./output_videos/project_video.mp4)
+
 Here's a [link to my challenge video result](./output_videos/challenge_video.mp4)
 ---
 
