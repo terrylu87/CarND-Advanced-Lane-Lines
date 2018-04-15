@@ -24,7 +24,7 @@ The goals / steps of this project are the following:
 [image3]: ./output_images/wraped_bin.png "Binary Example"
 [image4]: ./output_images/wraped_color.png "Warp Example"
 [image5]: ./output_images/lane.png "Fit Visual"
-[image6]: ../output_images/outimg.png "Output"
+[image6]: ./output_images/outimg.png "Output"
 [video1]: ./output_videos/project_video.mp4 "Project Video"
 [video2]: ./output_videos/challenge_video.mp4 "Challenge Video"
 
